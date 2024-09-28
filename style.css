@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+body{
+    font-family: "Poppins", sans-serif;
+    background-color: white;
+}
+.electro{
+    text-align: center;
+    background-color: aqua;
+    margin: 10px;
+    list-style: none;
+}
+.navegar a li{
+    text-align:left;
+    background-color: aquamarine;
+    list-style: none;
+}
+.categorias{
+    text-align: center;
+    background-color: gold;
+   
+}
+.nav{
+    list-style: none;
+}
+.seccion{
+    background-color: white;
+    padding: 100px;
+
+}
+.delivery{
+    text-align: center;
+    border: 10px dashed yellowgreen;
+    padding: 20px;
+}
+.text-dg{
+    font-size: 40px;;
+}
+.condicion{
+    font-weight: bold;
+    color:blueviolet;
+}
+.btp{
+    background-color: rgb(198, 51, 235);
+    color: white;
+    border-style: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+.carrucel-btp{
+    background-color: rgb(203, 8, 27);
+    color: white;
+    border-style: none;
+    border-radius: 10px;
+    padding: 10px;
+}
+.text-descuento{
+    font-size: 50px;
+}
+.lavadora {
+    border: 1px solid rgb(4, 6, 6);
+    padding: 20px;
+    margin: 10px;
+
+}
+.text-1{
+    text-align: center;
+    font-size: 30px;
+}
+.text-2{
+    text-align: center;
+    font-size: 30px;
+    
+}
+.text-3{
+    text-align: center;
+    font-size: 30px;
+}
+.tv{
+    border: 1px solid rgb(4, 6, 6);
+    padding: 20px;
+    margin: 10px;
+}
+
+.refri{
+    border: 1px solid rgb(4, 6, 6);
+    padding: 20px;
+    margin: 10px;
+}
+
